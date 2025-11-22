@@ -16,7 +16,7 @@ def draw_bar_chart(numbers):
 print("Generating random numbers...")
 time.sleep(1)
 
-nums = generate_random_numbers()
+nums.
 print("Numbers:", nums)
 
 avg = calculate_average(nums)
